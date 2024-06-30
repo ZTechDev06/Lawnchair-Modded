@@ -43,7 +43,7 @@ It is a free, open-source home app for Android. Taking Launcher3 — Android’s
 
 <br>
 
-> **Magisk/Ksu Module** →  **[Here](https://github.com/Unofficial-Life/Lawnchair-Launcher-Module)** (Q to U QPR2)
+> **Magisk/Ksu Module** →  **[Here](https://github.com/Unofficial-Life/Lawnchair-Launcher-Module)** (Q to U QPR3) Automatically replace stock launcher and recents provider to lawnchair without any extra steps
 
 ## Why this fork ?
 
