@@ -400,7 +400,7 @@ class PreferenceManager2 private constructor(private val context: Context) : Pre
 
     val useDrawerSearchIcon = preference(
         key = booleanPreferencesKey(name = "use_drawer_search_icon"),
-        defaultValue = true,
+        defaultValue = false,
     )
 
     val webSuggestionProvider = preference(
