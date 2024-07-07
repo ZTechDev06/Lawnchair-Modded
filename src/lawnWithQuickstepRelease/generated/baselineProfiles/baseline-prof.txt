@@ -3635,6 +3635,9 @@ HSPLapp/lawnchair/qsb/providers/GitHub;-><init>()V
 Lapp/lawnchair/qsb/providers/Google;
 HSPLapp/lawnchair/qsb/providers/Google;-><clinit>()V
 HSPLapp/lawnchair/qsb/providers/Google;-><init>()V
+Lapp/lawnchair/qsb/providers/Iceraven;
+HSPLapp/lawnchair/qsb/providers/Iceraven;-><clinit>()V
+HSPLapp/lawnchair/qsb/providers/Iceraven;-><init>()V
 Lapp/lawnchair/qsb/providers/GoogleGo;
 HSPLapp/lawnchair/qsb/providers/GoogleGo;-><clinit>()V
 HSPLapp/lawnchair/qsb/providers/GoogleGo;-><init>()V

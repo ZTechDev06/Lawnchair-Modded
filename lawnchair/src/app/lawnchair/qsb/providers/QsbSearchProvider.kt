@@ -122,6 +122,7 @@ sealed class QsbSearchProvider(
         fun values() = listOf(
             AppSearch,
             Google,
+            Iceraven,
             GoogleGo,
             Youtube,
             PixelSearch,
