@@ -133,6 +133,7 @@ sealed class QsbSearchProvider(
             Presearch,
             Bing,
             Brave,
+            Yandex,
             Startpage,
         )
 
