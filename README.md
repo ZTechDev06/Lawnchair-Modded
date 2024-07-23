@@ -3,7 +3,7 @@
 <picture>
     <!-- Avoid image being clickable with slight workaround --->
     <!-- ❤️ Credit to Raine on the Lawnchair Discord --->
-    <source media="(prefers-color-scheme: dark)" srcset="docs/Lawnchair Mod Banner.png">
+    <source media="(prefers-color-scheme: dark)" srcset="docs/Lawnchair Mod Banner.png"
     <img alt="Lawnchair Mod Banner" src="docs/Lawnchair Mod Banner.png">
 </picture>
 
@@ -43,7 +43,7 @@ It is a free, open-source home app for Android. Taking Launcher3 — Android’s
 
 ## Why this fork ?
 
-I have been in love with this awesome launcher since I found it. Then I found a modded version of the lawnchair made by Amr Gamal on his channel.I fell in love with those new icons and recent,<s>but unfortunately, he stopped making the fork and deleted all existing ones</s> (He started again just on the day i completed this repo but i will still keep this repo). I wanted new updates with these amazing icons. It took too much time to edit the app with tools such as MT Manager and Apktoolm, and doing it correctly required careful attention to the files. My decision was to fork Lawnchair and incorporate his modifications into the repository, making it build with it. So now we are here .... 
+I've been in love with this awesome launcher since I discovered it. I fell in love with these new icons and recent, So I made it possible to update lawnchair from com.android.launcher3 to lawnchair works for now on android 14 is Later
 
 <br>
 
