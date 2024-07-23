@@ -10,7 +10,7 @@
 &nbsp;
 
 <p align="center">
-          <img src="https://m3-markdown-badges.vercel.app/stars/9/2/ZTechDev06/Lawnchair-Modded">
+          <img src=<"https://m3-markdown-badges.vercel.app/stars/9/2/ZTechDev06/Lawnchair-Modded">
 
 <p align="center"> <b> <i> Lawnchair Balance between Simplicity and Customization </b> </i>
 
