@@ -10,7 +10,7 @@
 &nbsp;
 
 <p align="center">
-          <img src="https://m3-markdown-badges.vercel.app/stars/9/2/Unofficial-Life/Lawnchair-Modded">
+          <img src="https://m3-markdown-badges.vercel.app/stars/9/2/ZTechDev06/Lawnchair-Modded">
 
 <p align="center"> <b> <i> Lawnchair Balance between Simplicity and Customization </b> </i>
 
@@ -30,20 +30,16 @@ It is a free, open-source home app for Android. Taking Launcher3 — Android’s
 
 ## Features
 
--   Pixel Launcher-like UI with Material You design
--   At a Glance widget with Smartspacer support
--   QuickSwitch support
+-   Pixel Launcher-like UI with Material You design✅
+-   At a Glance widget with Smartspacer support✅
+-   Package (com.android.launcher3)✅
 -   Global Search support
 -   Icons, fonts, and colors customization
--   And more!
+-   Google Lens ❌
+-   QPR1 QPR2✅
+-   QPR3❌
 
-## Download
 
-> **APK** → See the **[Releases](https://github.com/Unofficial-Life/lawnchair/releases)** section for the latest non debug build .
-
-<br>
-
-> **Magisk/Ksu Module** →  **[Here](https://github.com/Unofficial-Life/Lawnchair-Launcher-Module)** (Q to U QPR3) Automatically replace stock launcher and recents provider to lawnchair without any extra steps
 
 ## Why this fork ?
 
