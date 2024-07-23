@@ -10,7 +10,7 @@
 &nbsp;
 
 <p align="center">
-          <img src=<"https://m3-markdown-badges.vercel.app/stars/9/2/ZTechDev06/Lawnchair-Modded">
+              <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">
 
 <p align="center"> <b> <i> Lawnchair Balance between Simplicity and Customization </b> </i>
 
@@ -33,8 +33,8 @@ It is a free, open-source home app for Android. Taking Launcher3 — Android’s
 -   Pixel Launcher-like UI with Material You design✅
 -   At a Glance widget with Smartspacer support✅
 -   Package (com.android.launcher3)✅
--   Global Search support
--   Icons, fonts, and colors customization
+-   Global Search support✅
+-   Icons, fonts, and colors customization✅
 -   Google Lens ❌
 -   QPR1 QPR2✅
 -   QPR3❌
