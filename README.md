@@ -35,6 +35,7 @@ It is a free, open-source home app for Android. Taking Launcher3 — Android’s
 -   Package (com.android.launcher3)✅
 -   Global Search support✅
 -   Icons, fonts, and colors customization✅
+-   Animation smooth for Launcher3✅
 -   QPR1 QPR2✅
 -   Google Lens ❌
 -   QPR3❌
